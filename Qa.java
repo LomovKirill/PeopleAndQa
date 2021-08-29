@@ -1,9 +1,5 @@
 public class Qa extends People {
-    public void testing(){
-        System.out.println("Тестировщик тестирует");
+    public void drinkCoffe(){
+        System.out.println("Я пью очень много кофе");
     }
-    public void flooding(){
-        System.out.println("Тестировщик общается");
-    }
-
 }
